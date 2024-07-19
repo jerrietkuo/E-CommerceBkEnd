@@ -1,5 +1,9 @@
 # E-Commerce Back End
 
+## Demo Video
+
+[Walkthrough video here](./assets2/challenge13.webm)
+
 ## Description
 
 This project is a back end for an e-commerce site, built with Express.js, Sequelize, and PostgreSQL. It provides a RESTful API for managing categories, products, tags, and the relationships between them.
